@@ -1,0 +1,17 @@
+.box2{
+    font-size: 3vh;
+    width: auto;
+    margin:auto;
+    padding: 50px;
+    border: solid 5px rgb(169, 240, 169);
+}
+.box1{
+    font-size: 3vh;
+    width: auto;
+    margin:auto;
+    padding: 50px;
+    border: solid 5px green;
+}
+html{
+    background-color: rgb(240, 214, 214);
+}
